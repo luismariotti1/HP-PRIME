@@ -1,0 +1,2 @@
+- para utilizar os códigos baixar kit de connectitividade da hp
+- fiquem a vontada para criar novas funcionalidades
